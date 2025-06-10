@@ -9,6 +9,11 @@ Package.resolved
 *.swp
 *~.nib
 
+# Scripts
+
+create_dmg.sh
+create_icns.sh
+
 # App bundle and distribution
 Poster.app/
 *.dmg

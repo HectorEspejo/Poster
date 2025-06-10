@@ -1,5 +1,7 @@
 # Poster for macOS
 
+![Poster Icon](poster-icon.png)
+
 A lightweight, memory-efficient clipboard manager for macOS Silicon with system tray integration and keyboard shortcuts.
 
 ## Features
