@@ -1,0 +1,50 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+*.xcodeproj
+
+# macOS
+.DS_Store
+*.swp
+*~.nib
+
+# App bundle and distribution
+Poster.app/
+*.dmg
+dmg_temp/
+
+# Build artifacts
+DerivedData/
+build/
+*.xcarchive
+*.xcworkspace
+
+# User-specific files
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Temporary files
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# System files
+Thumbs.db
+.Spotlight-V100
+.Trashes
